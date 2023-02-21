@@ -12,7 +12,7 @@ function category() {
 			<div className="grid grid-cols-2 md:grid-cols-4 gap-6 px-2 py-4">
 				{categories.map((item, index) => (
 					<div
-						className="rounded-full bg-cyan-100 hover:border hover:border-zinc-900 items-center p-4 flex justify-between"
+						className="rounded-full bg-cyan-100 hover:border hover:border-zinc-900 items-center p-4 flex justify-between shadow-lg hover:scale-105 duration-200"
 						key={index}
 					>
 						<h2 className=" font-bold sm:text-xl">{item.name}</h2>
