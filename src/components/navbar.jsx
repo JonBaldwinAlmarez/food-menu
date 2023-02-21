@@ -71,25 +71,25 @@ function Navbar() {
 				</h2>
 				<nav>
 					<ul className="flex flex-col p-4 text-black items-center">
-						<li className="flex text-xl py-4 hover:text-orange-500">
+						<li className="flex text-xl py-4 hover:text-cyan-500">
 							<TbTruck size={25} className="mr-4" /> Orders
 						</li>
-						<li className="flex text-xl py-4 hover:text-orange-500">
+						<li className="flex text-xl py-4 hover:text-cyan-500">
 							<MdFavoriteBorder size={25} className="mr-4" /> Favorites
 						</li>
-						<li className="flex text-xl py-4 hover:text-orange-500">
+						<li className="flex text-xl py-4 hover:text-cyan-500">
 							<BsWallet2 size={25} className="mr-4" /> Wallet
 						</li>
-						<li className="flex text-xl py-4 hover:text-orange-500">
+						<li className="flex text-xl py-4 hover:text-cyan-500">
 							<MdOutlineHelpOutline size={25} className="mr-4" /> Help
 						</li>
-						<li className="flex text-xl py-4 hover:text-orange-500">
+						<li className="flex text-xl py-4 hover:text-cyan-500">
 							<AiFillTag size={25} className="mr-4" /> Promotions
 						</li>
-						<li className="flex text-xl py-4 hover:text-orange-500">
+						<li className="flex text-xl py-4 hover:text-cyan-500">
 							<BsFillSaveFill size={25} className="mr-4" /> Best One
 						</li>
-						<li className="flex text-xl py-4 hover:text-orange-500">
+						<li className="flex text-xl py-4 hover:text-cyan-500">
 							<FaUserFriends size={25} className="mr-4" /> Invite friends
 						</li>
 					</ul>
